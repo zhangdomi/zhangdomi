@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zhangdomi
-- 👀 I’m interested in a lot of things. Mainly math, physics, data science. I also love to explore 
+- 👀 I’m interested in a lot of things. Mainly math, physics, data science. 
 - 🌱 I’m currently learning C but I had some experience in Python.
 - 💞️ I’m looking to collaborate on any project.
 
