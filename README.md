@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dominik Zhang</h1>
 <h3 align="center">A passionate freshman at from the University of Michigan</h3>
 
-- 🔭 I’m currently working on **a portfolio website**
+- 🔭 I’m currently working on **rebuilding Michigan Finance and Math Society (MFAMS)**
 
-- 🌱 I’m currently learning **C++ and DSA**
+- 🌱 I’m currently learning **Linear Algebra, MATH 217**
 
 - 📫 How to reach me **zhangdominik7@gmail.com**
 
